@@ -1,5 +1,5 @@
 # ExecicioEnumComposition
-Este repositório foi criado para praticar o conteúdo do curso C# Completo Programação Orientada a Objeto do Nelio Alves.  
+Este repositório foi criado para praticar o exercício sobre Enumeração e Composição conteúdo do curso C# Completo Programação Orientada a Objeto do professor Nelio Alves.  
 Foi proposto para essa atividade esse diagrama em UML :
 
 
